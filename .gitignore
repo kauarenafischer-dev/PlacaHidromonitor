@@ -1,0 +1,15 @@
+# Arquivos temporários
+*.lck
+~*.lck
+*.tmp
+
+# Configurações pessoais
+*.kicad_prl
+
+# Backups automáticos
+*-backups/
+*.bak
+*.bck
+
+# Cache
+fp-info-cache
